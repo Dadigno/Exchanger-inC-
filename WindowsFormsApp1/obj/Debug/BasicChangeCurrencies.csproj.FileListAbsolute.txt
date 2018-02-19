@@ -1,0 +1,10 @@
+C:\Users\UniDavide\Desktop\git\Exchanger-inC-\WindowsFormsApp1\bin\Debug\Basic Exchange.exe.config
+C:\Users\UniDavide\Desktop\git\Exchanger-inC-\WindowsFormsApp1\bin\Debug\Basic Exchange.exe
+C:\Users\UniDavide\Desktop\git\Exchanger-inC-\WindowsFormsApp1\bin\Debug\Basic Exchange.pdb
+C:\Users\UniDavide\Desktop\git\Exchanger-inC-\WindowsFormsApp1\obj\Debug\BasicChangeCurrencies.csprojResolveAssemblyReference.cache
+C:\Users\UniDavide\Desktop\git\Exchanger-inC-\WindowsFormsApp1\obj\Debug\BasicChangeCurrencies.Form1.resources
+C:\Users\UniDavide\Desktop\git\Exchanger-inC-\WindowsFormsApp1\obj\Debug\BasicChangeCurrencies.Properties.Resources.resources
+C:\Users\UniDavide\Desktop\git\Exchanger-inC-\WindowsFormsApp1\obj\Debug\BasicChangeCurrencies.csproj.GenerateResource.Cache
+C:\Users\UniDavide\Desktop\git\Exchanger-inC-\WindowsFormsApp1\obj\Debug\BasicChangeCurrencies.csproj.CoreCompileInputs.cache
+C:\Users\UniDavide\Desktop\git\Exchanger-inC-\WindowsFormsApp1\obj\Debug\Basic Exchange.exe
+C:\Users\UniDavide\Desktop\git\Exchanger-inC-\WindowsFormsApp1\obj\Debug\Basic Exchange.pdb
